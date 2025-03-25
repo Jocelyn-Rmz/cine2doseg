@@ -13,7 +13,6 @@ Entrega - Examen 2do. seguimiento
 
 M.T.I. Santana Valadez Luis Alejandro
 
-Alumnos: Cruz García Luz María - 21200647
 Fuentes Ramírez José Antonio - 21200648
 Ramírez Pérez Jocelyn - 21200663
 

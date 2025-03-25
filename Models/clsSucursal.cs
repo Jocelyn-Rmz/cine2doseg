@@ -8,7 +8,6 @@ using System.Data;
 using MySql.Data.MySqlClient;
 using Mysqlx.Connection;
 
-//LUZ MARIA CRUZ GARCIA
 //JOCELYN RAMIREZ PEREZ
 //JOSE ANTONIO FUENTES RAMIREZ
 // Modelo: clsSucursal.cs

@@ -12,7 +12,6 @@ using System.Data;
 using System.Security.Cryptography.X509Certificates;
 //------------------------
 
-//LUZ MARIA CRUZ GARCIA
 //JOCELYN RAMIREZ PEREZ
 //JOSE ANTONIO FUENTES RAMIREZ
 namespace cine2doseg.Controllers

@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-//LUZ MARIA CRUZ GARCIA
+
 //JOCELYN RAMIREZ PEREZ
 //JOSE ANTONIO FUENTES RAMIREZ
 namespace cine2doseg.Models
