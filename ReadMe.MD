@@ -18,8 +18,6 @@ Fuentes Ramírez José Antonio - 21200648
 Ramírez Pérez Jocelyn - 21200663
 
 
-Número de Control: 21200648
-
 24 de marzo de 2025
 
 ---------------------------------------------------
